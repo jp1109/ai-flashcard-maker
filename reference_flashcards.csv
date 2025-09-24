@@ -1,0 +1,10 @@
+type,question,answer,options,explanation
+Q&A,What is supervised learning?,A method where models are trained on labeled data.,,
+Q&A,Define overfitting in machine learning.,When a model learns noise instead of signal and performs poorly on new data.,,
+Q&A,What is cross-validation used for?,To evaluate model performance by splitting data into multiple training/validation sets.,,
+MCQ,Which algorithm is commonly used for classification?,Logistic Regression,Logistic Regression; Linear Regression; K-Means; PCA,"Logistic Regression is a classification algorithm, while Linear Regression is for regression, K-Means for clustering, and PCA for dimensionality reduction."
+MCQ,Which of the following is a decision tree ensemble method?,Random Forest,Random Forest; SVM; KNN; Naive Bayes,Random Forest combines multiple decision trees to reduce variance.
+MCQ,Which of the following metrics is suitable for imbalanced datasets?,F1-score,F1-score; Accuracy; MSE; R^2,"F1-score balances precision and recall, useful in imbalanced classification."
+True/False,Gradient Descent is an optimization algorithm.,True,,Correct — it minimizes the cost function iteratively.
+True/False,K-Means is a supervised learning algorithm.,False,,K-Means is unsupervised because it does not use labels.
+True/False,Neural Networks can only be used for image data.,False,,"They are flexible and used for text, audio, and many tasks beyond images."
